@@ -1,0 +1,10 @@
+cookie:
+  expiry_days: 30
+  key: epic
+  name: epic_dashboard
+credentials:
+  usernames:
+    epicspace:
+      email: nlupi@epic-aerospace.com
+      name: Nicolas Lupi
+      password: $2b$12$6fzQhDDTu2nECs.d9GaBrehbLgxFT8Q8zL1FDbjc3Q./MOkGbQ.o6
